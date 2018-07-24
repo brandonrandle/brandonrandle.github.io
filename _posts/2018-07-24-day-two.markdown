@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Day Two of Drawing"
+date: 2018-07-24
+categories: drawing drawabox
+---
+Today's work from lesson one, part two, exercise one of the
+<a href="http://www.drawabox.com">Draw a Box</a> lessons - ellipses. For those
+who don't know, an ellipse (per Draw a Box) is a circle that has been turned in
+3D space. Basically a circle seen from a different angle than straight on. Look
+at a quarter from the front and it's a circle - turn it a bit and it's an
+ellipse. Turn it all the way to the side and it's a line.
+
+Anyhow, here's my warmup and exercise for today.
+
+Enjoy the scribbles.
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/GexIs3K"><a href="//imgur.com/GexIs3K">Day Two - Draw a Box</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
